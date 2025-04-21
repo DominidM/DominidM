@@ -13,7 +13,7 @@
 ---
 ## 📊 Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=compact&langs_count=6&theme=radical)
 
 
 
