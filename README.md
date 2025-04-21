@@ -46,3 +46,53 @@ class Dominid:
             return "FastAPI o Django REST Framework"
         else:
             return "Proyecto personalizado 🔧"
+
+
+
+# 🛡️ Práctica de Seguridad en Redes y Manejo de T-SQL
+
+## 📘 Descripción General
+
+Este proyecto presenta una práctica aplicada orientada al análisis de seguridad en redes y el uso de consultas T-SQL para la administración segura de bases de datos. Se utilizaron herramientas especializadas como **Wireshark**, **Kali Linux** y **SQL Server Management Studio** para evaluar vulnerabilidades, capturar tráfico de red y ejecutar consultas estructuradas bajo criterios de seguridad.
+
+## 🎯 Objetivos Específicos
+
+- Analizar el tráfico de red mediante herramientas de inspección de paquetes.
+- Identificar protocolos potencialmente inseguros y eventos sospechosos.
+- Aplicar consultas **T-SQL** para la gestión de datos con enfoque seguro.
+- Emplear herramientas de **Kali Linux** para tareas de auditoría básica.
+
+## 🧰 Herramientas Utilizadas
+
+| Herramienta | Descripción |
+|-------------|-------------|
+| **Wireshark** | Captura y análisis de paquetes para detectar actividad sospechosa en la red. |
+| **Kali Linux** | Sistema operativo para pruebas de penetración y auditoría de seguridad. |
+| **SQL Server Management Studio (SSMS)** | Ejecución de consultas T-SQL para gestión de datos. |
+
+## 🔬 Actividades Desarrolladas
+
+1. Captura de tráfico de red utilizando Wireshark para observar protocolos como:
+   - **HTTP**
+   - **DNS**
+   - **ARP**
+   - **ICMP**
+
+2. Análisis de vulnerabilidades mediante:
+   - Filtrado de paquetes sospechosos.
+   - Inspección de direcciones MAC y origen/destino.
+   - Reconocimiento de patrones anómalos.
+
+3. Uso de Kali Linux para:
+   - Escaneo de puertos (Nmap).
+   - Simulación de ataques (ping flood, ARP spoofing).
+   - Detección de servicios activos en la red.
+
+4. Aplicación de sentencias **T-SQL**:
+   - Creación y gestión de usuarios.
+   - Consultas seguras con condiciones y restricciones.
+   - Aplicación de transacciones y control de errores.
+
+## 📂 Estructura del Proyecto
+
+
