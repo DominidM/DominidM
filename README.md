@@ -7,8 +7,8 @@
   </a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dominid&label=Profile%20views&color=blue&style=plastic" alt="dominid" /> 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=pie&theme=tokyonight" alt="Most Used Languages">
 </p>
 
 ---
