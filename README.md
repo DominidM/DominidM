@@ -14,7 +14,6 @@
 ---
 ## 📊 Lenguajes más usados
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=compact&langs_count=6&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=pie)](https://github.com/DominidM/github-readme-stats)
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
