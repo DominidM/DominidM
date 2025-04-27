@@ -14,8 +14,6 @@
 </p>
 
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px"></picture>
-
 - 🎓 Estudiante en los últimos años de Ingeniería en Sistemas  
 - 💻 Me especializo en el desarrollo backend y automatización de procesos  
 - 🌐 Apasionado por construir soluciones web con **Django**, **Spring Boot** y **PostgreSQL**  
