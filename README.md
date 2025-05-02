@@ -6,7 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%2300BFFF&size=24&center=true&vCenter=true&width=800&height=60&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollo+Web+Fullstack;C%23+y+Python+Developer;Bases+de+Datos+SQL+y+NoSQL;Sistemas+Embutidos+y+Arduino;Proyectos+con+Spring+Boot+y+Django;Aprendizaje+Continuo+y+Colaborativo">
   </a>
 </p>
-  ## 📊 Lenguajes más usados
 
 <p align="center">
 
