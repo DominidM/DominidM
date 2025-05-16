@@ -1,8 +1,12 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&
+   color=gradient&reversal=true />
 </div>
 
-<h1 align="center">Hola, soy Dominid 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h2 align="center">
+   Hi, I'm  soy Dominid 👨‍💻 
+   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">
+</h2>
 
 
 <p align="center">
@@ -12,12 +16,27 @@
 </p>
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=pie&theme=tokyonight" alt="Most Used Languages">
-   
- https://camo.githubusercontent.com/?username=DominidM1a68e6b56cb3d48f97de4f9cfdabbb411997fe17dfc396c7a5e41b54deb23f26/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416264616c7261686d616e2d416c68616d6f64267468656d653d6769746875625f6461726b
+  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=DominidM"></a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=DominidM&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DominidM&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DominidM&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 - 🎓 Estudiante en los últimos años de Ingeniería en Sistemas  
 - 💻 Me especializo en el desarrollo backend y automatización de procesos  
@@ -27,7 +46,15 @@
 - 🧠 En formación constante, siempre dispuesto a aprender nuevas tecnologías  
 - 🤝 Abierto a colaboraciones en proyectos de impacto educativo o social
 
----
+
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DominidM&theme=github_dark)
+  
+ </div>
+
 
 ```python
 class Dominid:
