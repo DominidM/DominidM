@@ -10,6 +10,8 @@
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DominidM&layout=pie&theme=tokyonight" alt="Most Used Languages">
+   
+ https://camo.githubusercontent.com/?username=DominidM1a68e6b56cb3d48f97de4f9cfdabbb411997fe17dfc396c7a5e41b54deb23f26/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d416264616c7261686d616e2d416c68616d6f64267468656d653d6769746875625f6461726b
 </p>
 
 
