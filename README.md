@@ -3,10 +3,10 @@
    color=gradient&reversal=true />
 </div>
 
-<h2 align="center">
+<h1 align="center">
    Hi, I'm  soy Dominid 👨‍💻 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">
-</h2>
+</h1>
 
 
 <p align="center">
