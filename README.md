@@ -3,7 +3,7 @@
    color=gradient&reversal=true />
    
 <h1 align="center">
-   Hi, I'm  soy Dominid 👨‍💻 
+   Hi, I'm  Dominid 👨‍💻 
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29">
 </h1>
 
